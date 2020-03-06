@@ -1,4 +1,4 @@
-package com.songreating.songcatalogservice;
+package com.songreating.songcatalogservice.models;
 
 public class CatalogItem {
 
